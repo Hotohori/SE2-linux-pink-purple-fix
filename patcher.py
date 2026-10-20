@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Force SE2's existing view-instancing fallback without fixed offsets or builds."""
+"""Force SE2's existing view-instancing fallback without fixed offsets or builds. Written by ChatGPT Codex 6.1"""
 
 import argparse
 from dataclasses import dataclass
