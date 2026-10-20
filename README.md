@@ -15,6 +15,15 @@ Requires Python 3.10 or later.
 
 ### Installation
 
+Clone this repo:
+
+```bash
+git clone https://github.com/Hotohori/SE2-linux-purple-fix.git
+```
+<sup>Or if you don't have git installed, download it over the green "<> Code" button on
+the top of the site over "Download ZIP".</sup>
+
+
 Create a virtual environment:
 
 ```bash
