@@ -9,11 +9,9 @@ This patcher locates the patch site using .NET metadata and IL instructions.
 It does not rely on a fixed game version, checksum, file offset, local variable
 index, or metadata token.
 
-## Usage
+## Installation
 
 Requires Python 3.10 or later.
-
-### Installation
 
 Clone this repo:
 
@@ -36,7 +34,7 @@ Install the dependencies:
 venv/bin/python -m pip install -r requirements.txt
 ```
 
-### Patcher
+## Usage
 
 Close the game before patching or restoring the DLL.
 First, check the DLL in the current working directory without making changes:
