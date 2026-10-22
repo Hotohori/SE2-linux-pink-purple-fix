@@ -120,8 +120,10 @@ with actual future builds as they are released.
 
 ## Extra
 
-If you have a patched NvApiWrapper.dll, save it as NvApiWrapper.dll.sik inside the
+If you have a patched NvApiWrapper.dll, save it as NvApiWrapper.dll.fix inside the
 Game2 directory inside Space Engineers 2 alongside the original NvApiWrapper.dll.
 Open patch.sh in a text editor and change game_path to your Game2 directory of your
 own SE2 installation. After that you can use to patch.sh to use this fix here and
-to copy your NvApiWrapper.dll.sik over NvApiWrapper.dll after a SE2 Steam update.
+to copy your NvApiWrapper.dll.fix over NvApiWrapper.dll after a SE2 Steam update
+too. Mainly used for NVidia users to fix the deactived raytracing option. You can
+find it on the official official Keen Software House Discord (pinned under #linux).
