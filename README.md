@@ -1,4 +1,4 @@
-# SE2 Purple Fix
+# SE2 Pink/Purple Fix
 
 Local patcher for the view-instancing bug in Space Engineers 2 under Proton.
 It enables the renderer's existing fallback by changing the assignment to
